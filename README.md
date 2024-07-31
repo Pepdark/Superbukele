@@ -1,1 +1,107 @@
-# Superbukele
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Bukele - Meme Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+            background: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            padding: 2em 0;
+        }
+        section {
+            margin-bottom: 2em;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background: #007bff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #0056b3;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .tokenomics, .roadmap {
+            background: #fff;
+            padding: 1em;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Super Bukele</h1>
+            <p>The Future of Meme Coins</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="main-content">
+            <h2>About Super Bukele</h2>
+            <p>Super Bukele is the next big thing in the world of meme coins. With its unique blend of humor and utility, Super Bukele aims to revolutionize the meme coin market with its innovative approach and engaging community.</p>
+
+            <h2>Tokenomics</h2>
+            <div class="tokenomics">
+                <p><strong>Total Supply:</strong> 1,000,000,000 SBK</p>
+                <p><strong>Distribution:</strong></p>
+                <ul>
+                    <li>50% - Community Rewards</li>
+                    <li>20% - Development Fund</li>
+                    <li>15% - Marketing & Partnerships</li>
+                    <li>10% - Team & Advisors</li>
+                    <li>5% - Reserve Fund</li>
+                </ul>
+                <p><strong>Initial Coin Offering (ICO):</strong> Starting price: $0.01 per SBK</p>
+            </div>
+
+            <h2>Roadmap</h2>
+            <div class="roadmap">
+                <p><strong>Q1 2024:</strong> Launch of Super Bukele, initial marketing campaigns, and community building.</p>
+                <p><strong>Q2 2024:</strong> Release of the Super Bukele app, partnerships with influencers, and expanded marketing efforts.</p>
+                <p><strong>Q3 2024:</strong> Introduction of staking rewards, and listing on major exchanges.</p>
+                <p><strong>Q4 2024:</strong> Expansion into additional markets, and continuous development of new features.</p>
+            </div>
+
+            <h2>Get Involved</h2>
+            <p>Join our community and stay updated with the latest news!</p>
+            <a href="#" class="btn">Join Our Telegram</a>
+            <a href="#" class="btn">Follow Us on Twitter</a>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Super Bukele. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
